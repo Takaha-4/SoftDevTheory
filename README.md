@@ -1,18 +1,19 @@
 # SoftDevTheory
 
-Repo - https://github.com/higolab/SoftDevTheory/
+Repo - https://github.com/modizyin/SoftDevTheory
 
 The task is to accept Pull Requests based on a unique theme for a top ten list (i.e., activities, hotspots, hobbies, music, books etc. )
 
-# Listing : Top Ten Prime Number
+# TOP 10 Anime Listing
 
-1. 2
-2. 3
-3. 5
-4. 7
-5. 11
-6. 13
-7. 17
-8. 19
-9. 23
-10. 29
+1. **Fate Stay Night(Unlimited blade works)**
+2. **Steins;Gate**
+3. **Gintama**
+4. **Attack on Titan**
+5. **Hunter x Hunter (2011)**
+6. **Bleach**
+7. **Legend of the Galactic Heroes**
+8. **Kaguya-sama: Love Is War**
+9. **March Comes in Like a Lion**
+10. **Clannad**
+11. **Bungou Stray Dogs**
