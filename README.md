@@ -6,4 +6,13 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 
 # Listing : Top Ten Prime Number
 
-1.
+1. 2
+2. 3
+3. 5
+4. 7
+5. 11
+6. 13
+7. 17
+8. 19
+9. 23
+10. 29
