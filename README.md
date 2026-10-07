@@ -10,10 +10,9 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 2. 3
 3. 5
 4. 97
-5. 11
-6. 13
-7. 17
-8. 19
-9. 23
-10. 29
+6. 0
+7. 8
+8. 3
+9. 2
+10. 4
 11. 31 - the next awesome prime number !
